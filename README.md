@@ -1,3 +1,11 @@
+ССЫЛКА: https://main--sparkly-cactus-ae7260.netlify.app/
+
+# Технологический стек
+* React
+* TypeScript
+* SCSS
+* React-dnd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
