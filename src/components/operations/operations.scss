@@ -1,0 +1,27 @@
+@import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
+
+.operations-container {
+    width: $component-width;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    @include border;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.operation {
+    color: black !important;
+    width: 70px;
+    @include element-border;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.hover {
+    &:hover {
+        cursor: pointer;
+    }
+}

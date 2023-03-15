@@ -1,0 +1,15 @@
+@import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
+
+.number-input {
+    text-align: right;
+    height: 30px;
+    width: $component-width;
+    font-weight: bold;
+    font-size: 2vw;
+    background-color: $input-background-color;
+    padding: 5px;
+    @include border;
+    pointer-events: none;
+    margin-top: 10px;
+}

@@ -1,0 +1,19 @@
+@import '../../styles/mixins.scss';
+@import '../../styles/variables.scss';
+
+.equal-btn {
+    @include border;
+    width: $container-width;
+    font-weight: bold;
+    color: white;
+    background-color: #5c48f1;
+    height: 60px;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.hover {
+    &:hover {
+        cursor: pointer;
+    }
+}

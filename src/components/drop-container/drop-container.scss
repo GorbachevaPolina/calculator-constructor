@@ -1,0 +1,33 @@
+@import '../../styles/variables.scss';
+
+.border {
+    border: 2px dashed gray;
+    border-radius: 5px;
+}
+
+.drop-container {
+    width: $container-width;
+    text-align: center;
+    margin-top: 20px;
+    height: 430px;
+    position: relative;
+
+    p {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+    }
+
+    span {
+        color: blue;
+    }
+
+    img {
+        width: 50px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
