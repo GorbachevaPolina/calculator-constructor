@@ -1,9 +1,9 @@
-ССЫЛКА: https://main--sparkly-cactus-ae7260.netlify.app/
+LINK: https://main--sparkly-cactus-ae7260.netlify.app/
 
-# Описание
-Простой drag-and-drop конструктор калькулятора. Выполнено в качестве тестового задания на должность Frontend-разработчика.
+# Description
+Simple drag-and-drop calculator constructor. 
 
-# Технологический стек
+# Technologies
 * React
 * TypeScript
 * SCSS
