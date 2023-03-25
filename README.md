@@ -1,10 +1,10 @@
-# Конструктор калькулятора
-Ссылка: https://main--sparkly-cactus-ae7260.netlify.app/
+# Calculator constructor
+Link: https://main--sparkly-cactus-ae7260.netlify.app/
 
-## Описание
-Drag-and-drop калькулятор. Режим constructor позволяет сконструировать калькулятор посредством drag-and-drop. В режиме runtime можно воспользоваться калькулятором. Проект выполнен в качестве тестового задания на должность "Frontend Developer". 
+## Description
+Drag-and-drop calculator. "Constructor" mode allows to construct a calculator by dragging and dropping elements into a container. "Runtime" mode allows to use the calculator. This project is created for a test task for a "Frontend Developer" position.
 
-## Технологии
+## Technologies
 * React
 * TypeScript
 * SCSS
